@@ -6,13 +6,13 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class HomePage {
-	@FindBy(xpath = "//span[@title ='My Network']")
-	private WebElement network;
+// 	@FindBy(xpath = "//span[@title ='My Network']")
+// 	private WebElement network;
 
-	public HomePage (WebDriver driver) {
-		PageFactory.initElements(driver, this);
+// 	public HomePage (WebDriver driver) {
+// 		PageFactory.initElements(driver, this);
 
-	}
+// 	}
 
 	
 	public void network() {
