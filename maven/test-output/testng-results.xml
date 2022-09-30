@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-18T18:51:34 IST" name="Suite" finished-at="2022-09-18T18:51:34 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2022-09-18T18:51:34 IST" name="Test" finished-at="2022-09-18T18:51:34 IST" duration-ms="87">
+      <class name="maven.Alpha">
+        <test-method is-config="true" signature="bsuite()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="bsuite" finished-at="2022-09-18T18:51:34 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsuite -->
+        <test-method is-config="true" signature="btest()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="btest" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method is-config="true" signature="bclass()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="bclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method signature="tclass()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="tclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclass -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method signature="tclass1()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="tclass1" finished-at="2022-09-18T18:51:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclass1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="tclass2()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="tclass2" finished-at="2022-09-18T18:51:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclass2 -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="tclass3()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="tclass3" finished-at="2022-09-18T18:51:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclass3 -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="atest" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="afterclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="asuite()[pri:0, instance:maven.Alpha@6379eb]" started-at="2022-09-18T18:51:34 IST" name="asuite" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asuite -->
+      </class> <!-- maven.Alpha -->
+      <class name="maven.Demo">
+        <test-method is-config="true" signature="bsuite()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="bsuite" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsuite -->
+        <test-method is-config="true" signature="btest()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="btest" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method is-config="true" signature="bclass()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="bclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method signature="tclassA()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="tclassA" finished-at="2022-09-18T18:51:34 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclassA -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method signature="tclassB()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="tclassB" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclassB -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method signature="tclassC()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="tclassC" finished-at="2022-09-18T18:51:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclassC -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="mclass()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="mclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mclass -->
+        <test-method signature="tclassD()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="tclassD" finished-at="2022-09-18T18:51:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tclassD -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="aftermethod" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="afterclass" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="atest" finished-at="2022-09-18T18:51:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method is-config="true" signature="asuite()[pri:0, instance:maven.Demo@a514af7]" started-at="2022-09-18T18:51:34 IST" name="asuite" finished-at="2022-09-18T18:51:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asuite -->
+      </class> <!-- maven.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
